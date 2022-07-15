@@ -8,6 +8,15 @@
     <language>zh-tw</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>阿柴的好文章</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/good/</link>
+      <pubDate>Fri, 15 Jul 2022 17:17:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/good/</guid>
+      <description>我是好文章 我是第三篇好文章 https://www.chs.org.tw</description>
+    </item>
+    
+    <item>
       <title>阿柴的第二篇文章</title>
       <link>https://demo.gethugothemes.com/liva/examplesite/blog/second-post/</link>
       <pubDate>Fri, 15 Jul 2022 17:07:47 +0800</pubDate>
