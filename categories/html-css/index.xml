@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HTML &amp; CSS on 阿柴部落格</title>
-    <link>https://demo.gethugothemes.com/liva/examplesite/categories/html-css/</link>
+    <link>https://hwh007.github.io/categories/html-css/</link>
     <description>Recent content in HTML &amp; CSS on 阿柴部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/html-css/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2019 10:07:47 +0600</lastBuildDate><atom:link href="https://hwh007.github.io/categories/html-css/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://demo.gethugothemes.com/liva/examplesite/blog/post-2/</link>
+      <link>https://hwh007.github.io/blog/post-2/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/post-2/</guid>
+      <guid>https://hwh007.github.io/blog/post-2/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
