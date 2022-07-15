@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 阿柴部落格</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/</link>
+    <description>Recent content in Tags on 阿柴部落格</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 15 Jul 2022 14:07:47 +0800</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/good/</link>
+      <pubDate>Fri, 15 Jul 2022 14:07:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/good/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/html/</link>
+      <pubDate>Fri, 15 Jul 2022 14:07:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/new/</link>
+      <pubDate>Fri, 15 Jul 2022 14:07:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Photos</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/photos/</link>
+      <pubDate>Fri, 15 Jul 2022 14:07:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/photos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/python/</link>
+      <pubDate>Fri, 15 Jul 2022 14:07:47 +0800</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/tags/react/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/tags/react/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
